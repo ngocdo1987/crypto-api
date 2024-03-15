@@ -6,6 +6,10 @@
 ## DexScreener
 - https://docs.dexscreener.com/api/reference
 
+## EtherScan
+- https://etherscan.io/apis
+- https://docs.etherscan.io/
+
 ## TonScan
 - https://github.com/catchain/tonscan
 - https://toncenter.com/ (TonCenter API key)
